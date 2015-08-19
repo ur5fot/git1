@@ -1,0 +1,33 @@
+// @import "lib/compass/reset"; 
+// @import "lib/compass";
+// @import "lib/susy";
+@import "lib/_reset.scss"; 
+@import "lib/_animate_main.scss";
+// @import "lib/_compass.scss";
+@import "lib/_mixin.scss"; 
+@import "lib/_colors_variables.scss";
+
+
+
+@import "var";
+@import "_fonts.scss";
+
+// @import "spr/*.png";
+// @each $name in life, mts, ks, email {
+// 	.#{$name} {@include spr-sprite(#{$name});}
+// }
+
+*{
+	  box-sizing: border-box;
+	}
+
+.container{
+	// @include container();
+
+}
+
+ 
+
+ 
+
+
